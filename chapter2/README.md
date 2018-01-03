@@ -12,4 +12,4 @@
 
 ### End of chapter2
 
-Let's Move to [chapter3] (../chapter3)
+Let's Move to [chapter3](../chapter3)
