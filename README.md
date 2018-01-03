@@ -12,12 +12,12 @@ This book is about Object Oriented Concepts like:
 
 
 
-###Table of Contents
+### Table of Contents
 
 
-*[Chapter1](chapter1)
-*[Chapter2](chapter2)
-*[chapter3](chapter3)
+* [Chapter1](chapter1)
+* [Chapter2](chapter2)
+* [chapter3](chapter3)
 
 
 ### License
