@@ -14,5 +14,5 @@ $git init
 ### End of story
 
 
-Move to [chapter1]
+Move to [chapter2](../chapter2)
 
