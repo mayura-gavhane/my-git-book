@@ -1,17 +1,15 @@
-# Chapter 1
+# Chapter 2
 
-> "Introduction to java"
+> "To do list for java"
 
-Code
-
-
-~~~ Java code
-
-$git init
-
-~~~
-
-### End of story
+- [ ] git init
+- [ ] touch README.md
+- [ ] git add.
+- [ ] git commit -m 'message'
+- [ ] git push origin master
+ 
 
 
-Move to [chapter3]
+### End of chapter2
+
+Let's Move to [chapter3] (../chapter3)

@@ -17,4 +17,6 @@ $git init
 ### End of story
 
 
-Move to [chapter2]
+Move to [chapter 2]
+
+
